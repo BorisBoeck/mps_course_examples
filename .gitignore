@@ -1,0 +1,32 @@
+# Code Composer Studio build output
+Debug/
+Release/
+**/Debug/
+**/Release/
+
+# CCS generated files
+.xdchelp
+**/.xdchelp
+
+.config/
+**/.config/
+
+.launches/
+**/.launches/
+
+# CCS / Eclipse workspace metadata
+.metadata/
+**/.metadata/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Editor backup / temporary files
+*~
+*.tmp
+*.bak
+*.swp
