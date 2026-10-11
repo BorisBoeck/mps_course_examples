@@ -72,7 +72,7 @@ git clone <repository-url>
 To obtain new examples during the semester:
 
 ```bash
-cd mps-course-examples
+cd mps_course_examples
 git pull
 ```
 
@@ -81,7 +81,7 @@ Do not use this repository for your own semester project.
 Your personal project should be stored in a separate repository, for example:
 
 ```text
-smart-fan-controller/
+smart_fan_controller/
 ```
 
 ---
