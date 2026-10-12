@@ -15,10 +15,13 @@
 
 int main(void)
 {
+    /* Stop watchdog timer */
     WDTCTL = WDTPW | WDTHOLD;
 
+    /* Initialize application and hardware */
     app_init();
 
+    /* Main application loop */
     while (1)
     {
         app_loop();
