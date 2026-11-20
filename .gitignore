@@ -30,3 +30,7 @@ Desktop.ini
 *.tmp
 *.bak
 *.swp
+
+# STM32CubeIDE
+**/.settings/
+**/*.launch
